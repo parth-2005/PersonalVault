@@ -1,5 +1,4 @@
 wsgidav>=4.3.0
 cheroot>=9.0.0
-pystray>=0.19.0
-Pillow>=10.0.0
+PyQt6>=6.7.0
 pyinstaller>=6.0.0
